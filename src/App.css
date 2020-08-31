@@ -1,0 +1,24 @@
+* {
+  font-family: "Noto Sans", sans-serif;
+}
+
+.column {
+  text-align: center;
+  margin: 20px auto;
+}
+
+.add-button {
+  background-color: #e74c3c;
+}
+
+.single-note {
+  margin: 20px auto;
+}
+
+.filter {
+  margin: 20px auto;
+}
+
+.sort {
+  margin-left: auto;
+}
